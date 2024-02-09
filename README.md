@@ -1,2 +1,2 @@
 # resume-templates
-resume-templates
+LaTeX templates
